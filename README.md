@@ -124,4 +124,4 @@ This ensures a clean, professional corporate look.
 
 Add your dashboard in the output/ folder and reference like:
 
-![Sales Dashboard Overview](output/dashboard_sales.png)
+![Sales Dashboard Overview](dashboard_sales.png)
