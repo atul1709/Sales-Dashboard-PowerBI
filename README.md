@@ -122,6 +122,4 @@ This ensures a clean, professional corporate look.
 
 📸 Dashboard Preview
 
-Add your dashboard in the output/ folder and reference like:
-
 ![Sales Dashboard Overview](dashboard_sales.png)
