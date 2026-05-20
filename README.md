@@ -123,3 +123,13 @@ This ensures a clean, professional corporate look.
 📸 Dashboard Preview
 
 ![Sales Dashboard Overview](dashboard_sales.png)
+
+💡 What I Learned
+
+Star schema data modelling and why it matters for dashboard performance
+Writing complex DAX measures for time intelligence and ranking
+Designing dashboards for non-technical stakeholders
+
+
+📬 Contact
+Atul Gupta — LinkedIn · Email
